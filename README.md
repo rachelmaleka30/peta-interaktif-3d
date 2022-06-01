@@ -1,2 +1,2 @@
-# peta-interaktif-3d
+# FOTO ATRIBUT LOKASI FOTO RUTE
 Bismillah Skripsi Rachel
