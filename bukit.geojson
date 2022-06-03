@@ -3,17 +3,41 @@
 "name": "bukit",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "PATUK", "LATITUDE": -7.838821845, "LONGITUDE": 110.4896285, "title": "DE MANGOL", "marker-symbol": "mountain", "description": "<img src=https://cdn.glitch.com/10640633-361f-42a2-8fba-0f7cdac7699a%2Fnoun_Mountains_155902.png?v=1567054332868 7>" }, "geometry": { "type": "Point", "coordinates": [ 110.4896285, -7.838821845 ] } },
-{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "PATUK", "LATITUDE": -7.846959212, "LONGITUDE": 110.5468482, "title": "EMBUNG NGLANGGERAN", "marker-symbol": "mountain" }, "geometry": { "type": "Point", "coordinates": [ 110.5468482, -7.846959212 ] } },
-{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "PATUK", "LATITUDE": -7.841104195, "LONGITUDE": 110.5432813, "title": "GUNUNG API PURBA NGLANGGERAN", "marker-symbol": "mountain" }, "geometry": { "type": "Point", "coordinates": [ 110.5432813, -7.841104195 ] } },
-{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "PATUK", "LATITUDE": -7.882712076, "LONGITUDE": 110.4897369, "title": "GUNUNG IRENG", "marker-symbol": "mountain" }, "geometry": { "type": "Point", "coordinates": [ 110.4897369, -7.882712076 ] } },
-{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "GIRIKARTO", "LATITUDE": -8.106033069, "LONGITUDE": 110.461509, "title": "HEHA OCEAN VIEW", "marker-symbol": "mountain" }, "geometry": { "type": "Point", "coordinates": [ 110.461509, -8.106033069 ] } },
-{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "PATUK", "LATITUDE": -7.849582509, "LONGITUDE": 110.4783025, "title": "HEHA SKY VIEW", "marker-symbol": "mountain" }, "geometry": { "type": "Point", "coordinates": [ 110.4783025, -7.849582509 ] } },
-{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "BEJI NGAWEN", "LATITUDE": -7.833016478, "LONGITUDE": 110.6721234, "title": "HUTAN WONOSADI", "marker-symbol": "mountain" }, "geometry": { "type": "Point", "coordinates": [ 110.6721234, -7.833016478 ] } },
-{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "GEDANGSARI", "LATITUDE": -7.854751668, "LONGITUDE": 110.5744154, "title": "GUNUNG GENTONG", "marker-symbol": "mountain" }, "geometry": { "type": "Point", "coordinates": [ 110.5744154, -7.854751668 ] } },
-{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "GEDANGSARI", "LATITUDE": -7.788387362, "LONGITUDE": 110.5610878, "title": "GUNUNG JAMBU", "marker-symbol": "mountain" }, "geometry": { "type": "Point", "coordinates": [ 110.5610878, -7.788387362 ] } },
-{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "GIRIKARTO", "LATITUDE": -8.101925448, "LONGITUDE": 110.4552983, "title": "PUNCAK SEGORO", "marker-symbol": "mountain" }, "geometry": { "type": "Point", "coordinates": [ 110.4552983, -8.101925448 ] } },
-{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "NGLIPAR", "LATITUDE": -7.865974397, "LONGITUDE": 110.6388253, "title": "PUNTHUK KEPUH", "marker-symbol": "mountain" }, "geometry": { "type": "Point", "coordinates": [ 110.6388253, -7.865974397 ] } },
-{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "WONOSARI", "LATITUDE": -8.026418247000001, "LONGITUDE": 110.5744279, "title": "WUNUNG GIRI SELO KONDHO", "marker-symbol": "mountain" }, "geometry": { "type": "Point", "coordinates": [ 110.5744279, -8.026418247 ] } }
+{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "PATUK", "LATITUDE": -7.838821845, "LONGITUDE": 110.4896285, "title": "DE MANGOL",  "description": "\
+    <img\
+      width="100%"\
+      style="float:left; margin: 0 1em 1em 0;"\
+      src="/docs/tutorials/creating-entities/Flag_of_Wyoming.svg" alt="fotooooooo"/>\
+    <p>\
+      Wyoming is a state in the mountain region of the Western \
+      United States.\
+    </p>\
+    <p>\
+      Wyoming is the 10th most extensive, but the least populous \
+      and the second least densely populated of the 50 United \
+      States. The western two thirds of the state is covered mostly \
+      with the mountain ranges and rangelands in the foothills of \
+      the eastern Rocky Mountains, while the eastern third of the \
+      state is high elevation prairie known as the High Plains. \
+      Cheyenne is the capital and the most populous city in Wyoming, \
+      with a population estimate of 63,624 in 2017.\
+    </p>\
+    <p>\
+      Source: \
+      <a style="color: WHITE"\
+        target="_blank"\
+        href="http://en.wikipedia.org/wiki/Wyoming">Wikpedia</a>\
+    </p>" }, "geometry": { "type": "Point", "coordinates": [ 110.4896285, -7.838821845 ] } },
+{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "PATUK", "LATITUDE": -7.846959212, "LONGITUDE": 110.5468482, "title": "EMBUNG NGLANGGERAN" }, "geometry": { "type": "Point", "coordinates": [ 110.5468482, -7.846959212 ] } },
+{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "PATUK", "LATITUDE": -7.841104195, "LONGITUDE": 110.5432813, "title": "GUNUNG API PURBA NGLANGGERAN": "mountain" }, "geometry": { "type": "Point", "coordinates": [ 110.5432813, -7.841104195 ] } },
+{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "PATUK", "LATITUDE": -7.882712076, "LONGITUDE": 110.4897369, "title": "GUNUNG IRENG" }, "geometry": { "type": "Point", "coordinates": [ 110.4897369, -7.882712076 ] } },
+{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "GIRIKARTO", "LATITUDE": -8.106033069, "LONGITUDE": 110.461509, "title": "HEHA OCEAN VIEW" }, "geometry": { "type": "Point", "coordinates": [ 110.461509, -8.106033069 ] } },
+{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "PATUK", "LATITUDE": -7.849582509, "LONGITUDE": 110.4783025, "title": "HEHA SKY VIEW" }, "geometry": { "type": "Point", "coordinates": [ 110.4783025, -7.849582509 ] } },
+{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "BEJI NGAWEN", "LATITUDE": -7.833016478, "LONGITUDE": 110.6721234, "title": "HUTAN WONOSADI" }, "geometry": { "type": "Point", "coordinates": [ 110.6721234, -7.833016478 ] } },
+{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "GEDANGSARI", "LATITUDE": -7.854751668, "LONGITUDE": 110.5744154, "title": "GUNUNG GENTONG" }, "geometry": { "type": "Point", "coordinates": [ 110.5744154, -7.854751668 ] } },
+{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "GEDANGSARI", "LATITUDE": -7.788387362, "LONGITUDE": 110.5610878, "title": "GUNUNG JAMBU" }, "geometry": { "type": "Point", "coordinates": [ 110.5610878, -7.788387362 ] } },
+{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "GIRIKARTO", "LATITUDE": -8.101925448, "LONGITUDE": 110.4552983, "title": "PUNCAK SEGORO"}, "geometry": { "type": "Point", "coordinates": [ 110.4552983, -8.101925448 ] } },
+{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "NGLIPAR", "LATITUDE": -7.865974397, "LONGITUDE": 110.6388253, "title": "PUNTHUK KEPUH"}, "geometry": { "type": "Point", "coordinates": [ 110.6388253, -7.865974397 ] } },
+{ "type": "Feature", "properties": { "JENIS": "BUKIT", "KECAMATAN": "WONOSARI", "LATITUDE": -8.026418247000001, "LONGITUDE": 110.5744279, "title": "WUNUNG GIRI SELO KONDHO"}, "geometry": { "type": "Point", "coordinates": [ 110.5744279, -8.026418247 ] } }
 ]
 }
