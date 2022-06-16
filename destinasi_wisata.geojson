@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "destinasi_wisata",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "PANTAI SADRANAN", "type": "PANTAI", "kecamatan": "TEPUS", "latitude": -8.145249941, "longitude": 110.6044215 }, "geometry": { "type": "Point", "coordinates": [ 110.6044215, -8.145249941 ] } },
+{ "type": "Feature", "properties": { "name": "PANTAI BARON", "type": "PANTAI", "kecamatan": "TANJUNGSARI", "latitude": -8.126288952, "longitude": 110.5482342 }, "geometry": { "type": "Point", "coordinates": [ 110.5482342, -8.126288952 ] } },
+{ "type": "Feature", "properties": { "name": "PANTAI JUNGWOK", "type": "PANTAI", "kecamatan": "GIRISUBO", "latitude": -8.197805716, "longitude": 110.7123376 }, "geometry": { "type": "Point", "coordinates": [ 110.7123376, -8.197805716 ] } },
+{ "type": "Feature", "properties": { "name": "PANTAI KUKUP", "type": "PANTAI", "kecamatan": "TANJUNGSARI", "latitude": -8.134258381, "longitude": 110.5554977 }, "geometry": { "type": "Point", "coordinates": [ 110.5554977, -8.134258381 ] } },
+{ "type": "Feature", "properties": { "name": "PANTAI GESING", "type": "PANTAI", "kecamatan": "GIRIKARTO", "latitude": -8.109391881000001, "longitude": 110.4695341 }, "geometry": { "type": "Point", "coordinates": [ 110.4695341, -8.109391881 ] } },
+{ "type": "Feature", "properties": { "name": "PANTAI NGANDONG", "type": "PANTAI", "kecamatan": "TEPUS", "latitude": -8.146223955, "longitude": 110.6060461 }, "geometry": { "type": "Point", "coordinates": [ 110.6060461, -8.146223955 ] } },
+{ "type": "Feature", "properties": { "name": "PANTAI NGRUMPUT", "type": "PANTAI", "kecamatan": "TANJUNGSARI", "latitude": -8.140313055, "longitude": 110.5831027 }, "geometry": { "type": "Point", "coordinates": [ 110.5831027, -8.140313055 ] } },
+{ "type": "Feature", "properties": { "name": "PANTAI NGUNGGAH", "type": "PANTAI", "kecamatan": "PANGGANG", "latitude": -8.078976649, "longitude": 110.4088131 }, "geometry": { "type": "Point", "coordinates": [ 110.4088131, -8.078976649 ] } },
+{ "type": "Feature", "properties": { "name": "PANTAI POKTUNGGAL", "type": "PANTAI", "kecamatan": "TEPUS", "latitude": -8.155397477, "longitude": 110.6217971 }, "geometry": { "type": "Point", "coordinates": [ 110.6217971, -8.155397477 ] } },
+{ "type": "Feature", "properties": { "name": "PANTAI PULANGSAWAL", "type": "PANTAI", "kecamatan": "TEPUS", "latitude": -8.150639949, "longitude": 110.612628 }, "geometry": { "type": "Point", "coordinates": [ 110.612628, -8.150639949 ] } },
+{ "type": "Feature", "properties": { "name": "PANTAI SLILI", "type": "PANTAI", "kecamatan": "TEPUS", "latitude": -8.144570222, "longitude": 110.6027693 }, "geometry": { "type": "Point", "coordinates": [ 110.6027693, -8.144570222 ] } },
+{ "type": "Feature", "properties": { "name": "DE MANGOL", "type": "BUKIT", "kecamatan": "PATUK", "latitude": -7.838821845, "longitude": 110.4896285 }, "geometry": { "type": "Point", "coordinates": [ 110.4896285, -7.838821845 ] } },
+{ "type": "Feature", "properties": { "name": "EMBUNG NGLANGGERAN", "type": "BUKIT", "kecamatan": "PATUK", "latitude": -7.846959212, "longitude": 110.5468482 }, "geometry": { "type": "Point", "coordinates": [ 110.5468482, -7.846959212 ] } },
+{ "type": "Feature", "properties": { "name": "GUNUNG API PURBA NGLANGGERAN", "type": "BUKIT", "kecamatan": "PATUK", "latitude": -7.841104195, "longitude": 110.5432813 }, "geometry": { "type": "Point", "coordinates": [ 110.5432813, -7.841104195 ] } },
+{ "type": "Feature", "properties": { "name": "GUNUNG IRENG", "type": "BUKIT", "kecamatan": "PATUK", "latitude": -7.882712076, "longitude": 110.4897369 }, "geometry": { "type": "Point", "coordinates": [ 110.4897369, -7.882712076 ] } },
+{ "type": "Feature", "properties": { "name": "HEHA OCEAN VIEW", "type": "BUKIT", "kecamatan": "GIRIKARTO", "latitude": -8.106033069, "longitude": 110.461509 }, "geometry": { "type": "Point", "coordinates": [ 110.461509, -8.106033069 ] } },
+{ "type": "Feature", "properties": { "name": "HEHA SKY VIEW", "type": "BUKIT", "kecamatan": "PATUK", "latitude": -7.849582509, "longitude": 110.4783025 }, "geometry": { "type": "Point", "coordinates": [ 110.4783025, -7.849582509 ] } },
+{ "type": "Feature", "properties": { "name": "HUTAN WONOSADI", "type": "BUKIT", "kecamatan": "BEJI NGAWEN", "latitude": -7.833016478, "longitude": 110.6721234 }, "geometry": { "type": "Point", "coordinates": [ 110.6721234, -7.833016478 ] } },
+{ "type": "Feature", "properties": { "name": "GUNUNG GENTONG", "type": "BUKIT", "kecamatan": "GEDANGSARI", "latitude": -7.854751668, "longitude": 110.5744154 }, "geometry": { "type": "Point", "coordinates": [ 110.5744154, -7.854751668 ] } },
+{ "type": "Feature", "properties": { "name": "GUNUNG JAMBU", "type": "BUKIT", "kecamatan": "GEDANGSARI", "latitude": -7.788387362, "longitude": 110.5610878 }, "geometry": { "type": "Point", "coordinates": [ 110.5610878, -7.788387362 ] } },
+{ "type": "Feature", "properties": { "name": "PUNCAK SEGORO", "type": "BUKIT", "kecamatan": "GIRIKARTO", "latitude": -8.101925448, "longitude": 110.4552983 }, "geometry": { "type": "Point", "coordinates": [ 110.4552983, -8.101925448 ] } },
+{ "type": "Feature", "properties": { "name": "PUNTHUK KEPUH", "type": "BUKIT", "kecamatan": "NGLIPAR", "latitude": -7.865974397, "longitude": 110.6388253 }, "geometry": { "type": "Point", "coordinates": [ 110.6388253, -7.865974397 ] } },
+{ "type": "Feature", "properties": { "name": "WUNUNG GIRI SELO KONDHO", "type": "BUKIT", "kecamatan": "WONOSARI", "latitude": -8.026418247000001, "longitude": 110.5744279 }, "geometry": { "type": "Point", "coordinates": [ 110.5744279, -8.026418247 ] } }
+]
+}
